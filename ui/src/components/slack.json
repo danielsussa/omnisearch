@@ -1,0 +1,246 @@
+{
+  "ok": true,
+  "query": "hello",
+  "messages": {
+    "total": 4,
+    "pagination": {
+      "total_count": 4,
+      "page": 1,
+      "per_page": 20,
+      "page_count": 1,
+      "first": 1,
+      "last": 4
+    },
+    "paging": {
+      "count": 20,
+      "total": 4,
+      "page": 1,
+      "pages": 1
+    },
+    "matches": [
+      {
+        "iid": "bd42d2ce-6682-4496-9006-ce54a65d2e0b",
+        "team": "T048ZG2H116",
+        "score": 0,
+        "channel": {
+          "id": "C0489NQH1M1",
+          "is_channel": true,
+          "is_group": false,
+          "is_im": false,
+          "name": "nothing",
+          "is_shared": false,
+          "is_org_shared": false,
+          "is_ext_shared": false,
+          "is_private": false,
+          "is_mpim": false,
+          "pending_shared": [],
+          "is_pending_ext_shared": false
+        },
+        "type": "message",
+        "user": "U048C916XU4",
+        "username": "danielsussa",
+        "ts": "1666832490.539129",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "dx8k",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "hello again!"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "text": "hello again!",
+        "permalink": "https://testing-bij9189.slack.com/archives/C0489NQH1M1/p1666832490539129?thread_ts=1666832490.539129",
+        "no_reactions": true
+      },
+      {
+        "iid": "b2197f3b-a75c-445a-9c32-6cf802dd5753",
+        "team": "T048ZG2H116",
+        "score": 0,
+        "channel": {
+          "id": "C0489NQH1M1",
+          "is_channel": true,
+          "is_group": false,
+          "is_im": false,
+          "name": "nothing",
+          "is_shared": false,
+          "is_org_shared": false,
+          "is_ext_shared": false,
+          "is_private": false,
+          "is_mpim": false,
+          "pending_shared": [],
+          "is_pending_ext_shared": false
+        },
+        "type": "message",
+        "user": "U048C916XU4",
+        "username": "danielsussa",
+        "ts": "1666847082.109009",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "A4hD",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "why hello?"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "text": "why hello?",
+        "permalink": "https://testing-bij9189.slack.com/archives/C0489NQH1M1/p1666847082109009?thread_ts=1666832490.539129",
+        "no_reactions": true
+      },
+      {
+        "iid": "06183f68-b53a-4c99-8926-ac380aa9fa2b",
+        "team": "T048ZG2H116",
+        "score": 0,
+        "channel": {
+          "id": "C0489NQH1M1",
+          "is_channel": true,
+          "is_group": false,
+          "is_im": false,
+          "name": "nothing",
+          "is_shared": false,
+          "is_org_shared": false,
+          "is_ext_shared": false,
+          "is_private": false,
+          "is_mpim": false,
+          "pending_shared": [],
+          "is_pending_ext_shared": false
+        },
+        "type": "message",
+        "user": null,
+        "username": "omnisearch",
+        "ts": "1666848319.258759",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "ENL",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Hello, World!"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "text": "Hello, World!",
+        "permalink": "https://testing-bij9189.slack.com/archives/C0489NQH1M1/p1666848319258759",
+        "no_reactions": true
+      },
+      {
+        "iid": "6eaffb92-fe35-46ee-9396-05ef444f7525",
+        "team": "T048ZG2H116",
+        "score": 0,
+        "channel": {
+          "id": "C048ZG2JBPS",
+          "is_channel": true,
+          "is_group": false,
+          "is_im": false,
+          "name": "random",
+          "is_shared": false,
+          "is_org_shared": false,
+          "is_ext_shared": false,
+          "is_private": false,
+          "is_mpim": false,
+          "pending_shared": [],
+          "is_pending_ext_shared": false
+        },
+        "type": "message",
+        "user": "U048C916XU4",
+        "username": "danielsussa",
+        "ts": "1666848953.605179",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "Dur",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "when we say hello:\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_quote",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "people seens to love we better"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "but "
+                  },
+                  {
+                    "type": "text",
+                    "text": "hard to belive",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " that is true!"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "text": "when we say hello:\n> people seens to love we better\nbut hard to belive that is true!",
+        "permalink": "https://testing-bij9189.slack.com/archives/C048ZG2JBPS/p1666848953605179",
+        "no_reactions": true
+      }
+    ]
+  },
+  "files": {
+    "total": 0,
+    "pagination": {
+      "total_count": 0,
+      "page": 1,
+      "per_page": 20,
+      "page_count": 0,
+      "first": 1,
+      "last": 0
+    },
+    "paging": {
+      "count": 20,
+      "total": 0,
+      "page": 1,
+      "pages": 0
+    },
+    "matches": []
+  },
+  "posts": {
+    "total": 0,
+    "matches": []
+  }
+}

@@ -1,0 +1,5 @@
+- only do search, only work with that
+- search with entry-point (jira, slack, notes)
+- alive meet recording
+- on database maybe only thing to track is how to deal with AI or tags
+- deal with tags, all search is related to tags
